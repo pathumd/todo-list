@@ -19,6 +19,7 @@ Instructions:
 ---------
 To run the React app locally, Node.js as well as npm must be installed.
 To install the latest version of Node.js, visit the following link: https://nodejs.org/en/download/
+
 To install npm, run the following command in Windows Command Prompt or Terminal once Node.js has been installed: 'npm install -g npm'
 
 License:
