@@ -1,7 +1,7 @@
 # To-do list built with React
 Project Version 1.0 08/30/2021
 
-![alt text](https://github.com/pathumd/Sadaham-Sisila/blob/main/mainmockup.jpg?raw=true)
+![alt text](https://i.imgur.com/VlDcm4Z.jpg?raw=true)
 
 Description:
 --------------
