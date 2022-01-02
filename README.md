@@ -2,6 +2,7 @@
 Project Version 1.0 08/30/2021
 
 ![alt text](https://github.com/pathumd/Sadaham-Sisila/blob/main/mainmockup.jpg?raw=true)
+
 Description:
 --------------
 - Using the React framework, I built a minimal, clean and easy-to-use to-do web app that keeps track of your tasks and stores them in the browser's memory.
